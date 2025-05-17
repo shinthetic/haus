@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+In the early days, the first Howlanders came together to ~~_**████████**_~~. 
