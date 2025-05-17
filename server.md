@@ -10,3 +10,5 @@ title: Server
 1. Run the mod pack
 1. Connect to howland.haus
 1. You're done! 🥳🎉
+
+<iframe src="https://mc.howland.haus:8443/status" width="400" height="400"></iframe>
