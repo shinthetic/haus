@@ -3,7 +3,6 @@ layout: page
 title: Server
 ---
 
-I'm going to put server information here
 
 ## [](#header-2)Steps to join the Minecraft server:
 1. Get the mod pack
