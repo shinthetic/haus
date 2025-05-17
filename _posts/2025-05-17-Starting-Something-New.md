@@ -1,5 +1,5 @@
 ---
-title: Yet Another Sample Page
+title: Starting something new
 published: true
 ---
 
