@@ -1,6 +1,7 @@
 ---
 layout: page
 title: One Last Thing
+date: 2025-05-15 11:20
 ---
 
 Troubling times indeed. They always said it'd be like this. Though, I never expected things to turn out the way they are.
