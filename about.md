@@ -7,4 +7,4 @@ In the early days, the first Howlanders came together to ~~_**██████
 
 * * *
 
-__[_](another-page)__ ___ ___ ___
+___[_](another-page) ____ ____ ____
