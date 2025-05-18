@@ -21,10 +21,10 @@ It's a busy time and there's only so much time to give. It's a scarce commodity.
 
 At this point you might be able to tell that I've been rambling. Sometimes my thoughts wander and betray me. 
 
-If you find one in the wild, you would be wise to be wary. I personally wouldn't trust a one without thorough considerarion
+If you find one in the wild, you would be wise to be wary. I personally wouldn't trust a one without thorough considerarion.
 
 These days are long, but go by so quickly.
-So I think that it would be a waste for these words to scatter into the wind.
+So I thought that it would be a waste for these words to scatter into the wind.
 
 Words always escaping me, losing trace of them when I need them most. I misplace all sorts of important things. 
 
