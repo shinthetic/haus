@@ -10,6 +10,6 @@ I thought it might be nice to have a calendar here or note upcoming events
 | Sunday      | Monday   | Tuesday | Wednesday | Thursday | Friday | Saturday | 
 |:-------------|:------------------|:------|:-|:-|:-|:-|
 | nothing          | is | happening |
-| |  | ever |
-|   |   again |  |
+| |  |  |
+|   |    |  |
 |         | | |
